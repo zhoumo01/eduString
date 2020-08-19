@@ -1,0 +1,2 @@
+# eduString
+education software strings
