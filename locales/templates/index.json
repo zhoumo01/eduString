@@ -51263,54 +51263,6 @@
     "message": "%{num} 项参与",
     "description": ""
   },
-  "number.currency.format.delimiter": {
-    "message": ",",
-    "description": ""
-  },
-  "number.currency.format.format": {
-    "message": "%u%n",
-    "description": ""
-  },
-  "number.currency.format.precision": {
-    "message": 2,
-    "description": ""
-  },
-  "number.currency.format.separator": {
-    "message": ".",
-    "description": ""
-  },
-  "number.currency.format.significant": {
-    "message": "false",
-    "description": ""
-  },
-  "number.currency.format.strip_insignificant_zeros": {
-    "message": "false",
-    "description": ""
-  },
-  "number.currency.format.unit": {
-    "message": "$",
-    "description": ""
-  },
-  "number.format.delimiter": {
-    "message": ",",
-    "description": ""
-  },
-  "number.format.precision": {
-    "message": 3,
-    "description": ""
-  },
-  "number.format.separator": {
-    "message": ".",
-    "description": ""
-  },
-  "number.format.significant": {
-    "message": "false",
-    "description": ""
-  },
-  "number.format.strip_insignificant_zeros": {
-    "message": "false",
-    "description": ""
-  },
   "number.human.decimal_units.format": {
     "message": "%n %u",
     "description": ""
@@ -51337,22 +51289,6 @@
   },
   "number.human.decimal_units.units.unit": {
     "message": "",
-    "description": ""
-  },
-  "number.human.format.delimiter": {
-    "message": "",
-    "description": ""
-  },
-  "number.human.format.precision": {
-    "message": 3,
-    "description": ""
-  },
-  "number.human.format.significant": {
-    "message": "true",
-    "description": ""
-  },
-  "number.human.format.strip_insignificant_zeros": {
-    "message": "true",
     "description": ""
   },
   "number.human.storage_units.format": {
@@ -51389,18 +51325,6 @@
   },
   "number.human.storage_units.units.tb": {
     "message": "TB",
-    "description": ""
-  },
-  "number.percentage.format.delimiter": {
-    "message": "",
-    "description": ""
-  },
-  "number.percentage.format.format": {
-    "message": "%n%",
-    "description": ""
-  },
-  "number.precision.format.delimiter": {
-    "message": "",
     "description": ""
   },
   "number_between_1_and_16_inclusive_31f5468d": {
