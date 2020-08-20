@@ -723,11 +723,11 @@
     "message": "已接受",
     "description": ""
   },
-  "accepted_ds_hex_rgba_rgb_hsl_42a37ef7": {
+  "accepted_formats_hex_rgba_rgb_hsl_42a37ef7": {
     "message": "可接受的格式：hex, rgba, rgb, hsl",
     "description": ""
   },
-  "accepted_ds_svg_png_jpg_gif_f793e4bc": {
+  "accepted_formats_svg_png_jpg_gif_f793e4bc": {
     "message": "可接受的格式：svg, png, jpg, gif",
     "description": ""
   },
@@ -1023,7 +1023,7 @@
     "message": "使用 *%{placeholder}* 作为用户所提供的用户名的占位符。例如: *(sAMAccountName=%{placeholder})*",
     "description": ""
   },
-  "account_authorization_configs.ldap_fields.identifer_d_description": {
+  "account_authorization_configs.ldap_fields.identifer_format_description": {
     "message": "LDAP 属性用于查看 Canvas 登录。保留空白以使用用户提供的用户名。",
     "description": ""
   },
@@ -1563,8 +1563,8 @@
     "message": "course_id",
     "description": ""
   },
-  "account_reports.report_header_course_d": {
-    "message": "course_d",
+  "account_reports.report_header_course_format": {
+    "message": "course_format",
     "description": ""
   },
   "account_reports.report_header_course_id": {
@@ -3339,7 +3339,7 @@
     "message": "错误",
     "description": ""
   },
-  "accounts.settings.alert_icon_indion_option": {
+  "accounts.settings.alert_icon_information_option": {
     "message": "信息",
     "description": ""
   },
@@ -5691,7 +5691,7 @@
     "message": "所有课程",
     "description": ""
   },
-  "all_dates_fields_must_be_present_and_dted_cor_3a0fe925": {
+  "all_dates_fields_must_be_present_and_formatted_cor_3a0fe925": {
     "message": "所有日期栏必须以正确的格式呈现",
     "description": ""
   },
@@ -6043,7 +6043,7 @@
     "message": "允许管理员用户查看帐户统计信息。",
     "description": ""
   },
-  "allows_admins_to_view_a_log_containing_indion_5d4eb5e0": {
+  "allows_admins_to_view_a_log_containing_information_5d4eb5e0": {
     "message": "准许管理员查看包含所有近期运行的\nGraphQL突变的信息日志。",
     "description": ""
   },
@@ -10519,7 +10519,7 @@
     "message": "%{author}, %{created_at}",
     "description": ""
   },
-  "assignments.submission_sidebar.labels."false"": {
+  "assignments.submission_sidebar.labels.false": {
     "message": "否",
     "description": ""
   },
@@ -11579,7 +11579,7 @@
     "message": "使用*%{placeholder}*作为由用户提供的用户名的占位符。例如：*(sAMAccountName=%{placeholder})*",
     "description": ""
   },
-  "authentication_providers.ldap_fields.identifer_d_description": {
+  "authentication_providers.ldap_fields.identifer_format_description": {
     "message": "查找 Canvas 登录时要使用的 LDAP 属性。保留空白，以使用由用户提供的用户名。",
     "description": ""
   },
@@ -12007,7 +12007,7 @@
     "message": "开始时间的字段格式",
     "description": ""
   },
-  "available_from_d_like_yyyy_mm_dd_hh_mm_8b726122": {
+  "available_from_format_like_yyyy_mm_dd_hh_mm_8b726122": {
     "message": "开始时间的格式 YYYY-MM-DD hh:mm",
     "description": ""
   },
@@ -12043,7 +12043,7 @@
     "message": "截止时间的字段格式",
     "description": ""
   },
-  "available_until_d_like_yyyy_mm_dd_hh_mm_622378d6": {
+  "available_until_format_like_yyyy_mm_dd_hh_mm_622378d6": {
     "message": "截止时间的格式 YYYY-MM-DD hh:mm",
     "description": ""
   },
@@ -12331,7 +12331,7 @@
     "message": "blueprint_course_id",
     "description": ""
   },
-  "blueprint_course_indion_term_course_10d5cf30": {
+  "blueprint_course_information_term_course_10d5cf30": {
     "message": "模板课程信息：%{term} -%{course}",
     "description": ""
   },
@@ -12459,7 +12459,7 @@
     "message": "必须由管理员为帐户启用模板课程。课程角色只有在作为教师、助教或设计者角色添加到模板课程时才能管理模板课程中的内容。",
     "description": ""
   },
-  "blueprint_indion_95dcef55": {
+  "blueprint_information_95dcef55": {
     "message": "蓝图信息",
     "description": ""
   },
@@ -14355,7 +14355,7 @@
     "message": "可以列出数据服务数据订阅。",
     "description": ""
   },
-  "can_lookup_account_indion_13d69520": {
+  "can_lookup_account_information_13d69520": {
     "message": "可以查找帐户信息",
     "description": ""
   },
@@ -14783,7 +14783,7 @@
     "message": "Canvas目录",
     "description": ""
   },
-  "canvas_cloud_indion_fdd404f2": {
+  "canvas_cloud_information_fdd404f2": {
     "message": "Canvas云信息",
     "description": ""
   },
@@ -16247,7 +16247,7 @@
     "message": "创建我的帐户",
     "description": ""
   },
-  "communication_channels.confirm.buttons."false"": {
+  "communication_channels.confirm.buttons.false": {
     "message": "否",
     "description": ""
   },
@@ -19483,7 +19483,7 @@
     "message": "正在复制...",
     "description": ""
   },
-  "copyright_and_license_indion_must_be_provided_5feffaf": {
+  "copyright_and_license_information_must_be_provided_5feffaf": {
     "message": "文件发布前，必须提供版权信息和许可信息。",
     "description": ""
   },
@@ -20063,19 +20063,19 @@
     "message": "课程",
     "description": ""
   },
-  "course.course_d.blended": {
+  "course.course_format.blended": {
     "message": "混合",
     "description": ""
   },
-  "course.course_d.not_set": {
+  "course.course_format.not_set": {
     "message": "未设置",
     "description": ""
   },
-  "course.course_d.on_campus": {
+  "course.course_format.on_campus": {
     "message": "校园中",
     "description": ""
   },
-  "course.course_d.online": {
+  "course.course_format.online": {
     "message": "在线",
     "description": ""
   },
@@ -21527,7 +21527,7 @@
     "message": "注册费",
     "description": ""
   },
-  "courses.edit_profile.labels.d": {
+  "courses.edit_profile.labels.format": {
     "message": "格式",
     "description": ""
   },
@@ -21907,7 +21907,7 @@
     "message": "电子邮件／登录",
     "description": ""
   },
-  "courses.roster.create_users.example_ds": {
+  "courses.roster.create_users.example_formats": {
     "message": "示例：user@example.com, \"名, 姓\" <user@example.com>, \"姓, 名\" <user@example.com>",
     "description": ""
   },
@@ -22279,7 +22279,7 @@
     "message": "Epub导出",
     "description": ""
   },
-  "courses.settings.labels.course_d": {
+  "courses.settings.labels.course_format": {
     "message": "格式",
     "description": ""
   },
@@ -23647,7 +23647,7 @@
     "message": "CSV 文件",
     "description": ""
   },
-  "csv_or_json_ds_only_d8ba36d": {
+  "csv_or_json_formats_only_d8ba36d": {
     "message": "仅CSV或JSON格式",
     "description": ""
   },
@@ -24119,31 +24119,31 @@
     "message": "昨天",
     "description": ""
   },
-  "date.ds.date_at_time": {
+  "date.formats.date_at_time": {
     "message": "%b %-d 于 %H:%M",
     "description": ""
   },
-  "date.ds.default": {
+  "date.formats.default": {
     "message": "%Y-%m-%d",
     "description": ""
   },
-  "date.ds.full": {
+  "date.formats.full": {
     "message": "%Y %b %-d %-k:%M",
     "description": ""
   },
-  "date.ds.full_with_weekday": {
+  "date.formats.full_with_weekday": {
     "message": "%Y %a %b %-d %-k:%M",
     "description": ""
   },
-  "date.ds.long": {
+  "date.formats.long": {
     "message": "%Y %B %-d",
     "description": ""
   },
-  "date.ds.long_with_weekday": {
+  "date.formats.long_with_weekday": {
     "message": "%A, %B %-d",
     "description": ""
   },
-  "date.ds.medium": {
+  "date.formats.medium": {
     "message": "%Y %b %-d",
     "description": ""
   },
@@ -30959,7 +30959,7 @@
     "message": "预计发行:",
     "description": ""
   },
-  "feature_flags.feature_flag."false"": {
+  "feature_flags.feature_flag.false": {
     "message": "关",
     "description": ""
   },
@@ -51238,7 +51238,7 @@
   "now_viewing_attempt_current_attempt_918e616": {
     "message": "现在查看尝试%{current_attempt}",
     "description": ""
-  },d
+  },
   "num_messages_c1949bbc.one": {
     "message": "%{num} 条消息",
     "description": ""
@@ -51267,51 +51267,51 @@
     "message": ",",
     "description": ""
   },
-  "number.currency.d.d": {
+  "number.currency.format.format": {
     "message": "%u%n",
     "description": ""
   },
-  "number.currency.d.precision": {
+  "number.currency.format.precision": {
     "message": 2,
     "description": ""
   },
-  "number.currency.d.separator": {
+  "number.currency.format.separator": {
     "message": ".",
     "description": ""
   },
-  "number.currency.d.significant": {
+  "number.currency.format.significant": {
     "message": "false",
     "description": ""
   },
-  "number.currency.d.strip_insignificant_zeros": {
+  "number.currency.format.strip_insignificant_zeros": {
     "message": "false",
     "description": ""
   },
-  "number.currency.d.unit": {
+  "number.currency.format.unit": {
     "message": "$",
     "description": ""
   },
-  "number.d.delimiter": {
+  "number.format.delimiter": {
     "message": ",",
     "description": ""
   },
-  "number.d.precision": {
+  "number.format.precision": {
     "message": 3,
     "description": ""
   },
-  "number.d.separator": {
+  "number.format.separator": {
     "message": ".",
     "description": ""
   },
-  "number.d.significant": {
+  "number.format.significant": {
     "message": "false",
     "description": ""
   },
-  "number.d.strip_insignificant_zeros": {
+  "number.format.strip_insignificant_zeros": {
     "message": "false",
     "description": ""
   },
-  "number.human.decimal_units.d": {
+  "number.human.decimal_units.format": {
     "message": "%n %u",
     "description": ""
   },
@@ -51339,23 +51339,23 @@
     "message": "",
     "description": ""
   },
-  "number.human.d.delimiter": {
+  "number.human.format.delimiter": {
     "message": "",
     "description": ""
   },
-  "number.human.d.precision": {
+  "number.human.format.precision": {
     "message": 3,
     "description": ""
   },
-  "number.human.d.significant": {
-    "message": true,
+  "number.human.format.significant": {
+    "message": "true",
     "description": ""
   },
-  "number.human.d.strip_insignificant_zeros": {
-    "message": true,
+  "number.human.format.strip_insignificant_zeros": {
+    "message": "true",
     "description": ""
   },
-  "number.human.storage_units.d": {
+  "number.human.storage_units.format": {
     "message": "%n %u",
     "description": ""
   },
@@ -51391,15 +51391,15 @@
     "message": "TB",
     "description": ""
   },
-  "number.percentage.d.delimiter": {
+  "number.percentage.format.delimiter": {
     "message": "",
     "description": ""
   },
-  "number.percentage.d.d": {
+  "number.percentage.format.format": {
     "message": "%n%",
     "description": ""
   },
-  "number.precision.d.delimiter": {
+  "number.precision.format.delimiter": {
     "message": "",
     "description": ""
   },
@@ -51759,7 +51759,7 @@
     "message": "正在导入一个或多个项目。可用项目将显示在下面的课程中。",
     "description": ""
   },
-  "one_per_line_d_name_value_79647700": {
+  "one_per_line_format_name_value_79647700": {
     "message": "每行一个。格式：名称 = 值",
     "description": ""
   },
@@ -52011,7 +52011,7 @@
     "message": "可选择性地在评分册中包括字节顺序标记，以便一些区域的用户导入到 Excel。",
     "description": ""
   },
-  "options."false"": {
+  "options.false": {
     "message": "否",
     "description": ""
   },
@@ -52171,8 +52171,8 @@
     "message": "共",
     "description": ""
   },
-  "out_of_dtedoutof_e08e90d5": {
-    "message": "共%{dtedOutOf}",
+  "out_of_formattedoutof_e08e90d5": {
+    "message": "共%{formattedOutOf}",
     "description": ""
   },
   "out_of_n_assignment_points_possible_3b026ea9": {
@@ -52743,7 +52743,7 @@
     "message": "在此处创建结果以跟踪课程掌握程度。要开始使用，请查看顶部的菜单栏。单击New Outcome(新结果)按钮可创建新结果，或单击New Group(新组)按钮可创建新组，以整理您的结果。使用Find(查找)按钮可使用您所在的州或机构创建的结果。在您创建和使用结果时，您可以使用左侧面板在结果中导航。您可以将结果拖放到不同级别，以创建结构。",
     "description": ""
   },
-  "outcomes_csv_d_9005acfb": {
+  "outcomes_csv_format_9005acfb": {
     "message": "结果CSV格式",
     "description": ""
   },
@@ -54143,7 +54143,7 @@
     "message": "该插件可把最终评分重新发布到学生信息系统 (SIS)。启用该插件后，用户将在评分册内获得一个选项用来发布这些评分。这将通过对指定的发布端点发出“发布”请求来实现。各类型定义自己的内容格式和多媒体网际网路邮件延伸类型。端点的响应不重要，目前被忽略。\n\n例如，CSV 格式的 Instructure 将把多媒体网际网路邮件延伸类型为‘text/csv’的 csv 文件发布到指定的端点，包含以下列：\n\n\"publisher_id\"、\"publisher_sis_id\"、\"course_id\"、\"course_sis_id\"、\"section_id\"、\"section_sis_id\"、\"student_id\"、\"student_sis_id\"、\"enrollment_id\"、\"enrollment_status\"、\"score\"、\"grade\"\n\n（备注：\"grade\" （评分）列只在课程指定评分标准时返回）。\n\n对于参加正在发布的课程的学生，已发布的 csv 将包含 1 行或多行。具体来说，学生在课程母帐户内的每个登录将用 1 行显示。大多数情况下，每个学生 1 行，但是，如果学生有多个登录，每个登录将显示为 1 行。\n\n如果勾选“包含最终评分置换项”，并且启用了最终评分置换项功能，则有评分/分数置换项的学生将收到置换项用于替换计算出的分数和评分。",
     "description": ""
   },
-  "plugins.grade_export_settings.labels.d_type": {
+  "plugins.grade_export_settings.labels.format_type": {
     "message": "输出格式类型",
     "description": ""
   },
@@ -56491,7 +56491,7 @@
     "message": "提供符合 *urn:oasis:names:tc:SAML:profiles:SSO:idp-discovery-protocol*\n  协议的 SAML IdP 发现服务的 URL。还必须配置更多 SAML\n提供程序才能跟进来自发现服务\n的响应。",
     "description": ""
   },
-  "provide_tutorial_indion_for_new_users_in_a_fl_c23462ac": {
+  "provide_tutorial_information_for_new_users_in_a_fl_c23462ac": {
     "message": "在弹出托盘中为新用户提供教程信息。",
     "description": ""
   },
@@ -57435,7 +57435,7 @@
     "message": "正在加载...",
     "description": ""
   },
-  "quiz_log_auditing.navigation.links.back_to_session_indion": {
+  "quiz_log_auditing.navigation.links.back_to_session_information": {
     "message": "返回日志",
     "description": ""
   },
@@ -58231,8 +58231,8 @@
     "message": "检索过滤器失败",
     "description": ""
   },
-  "quizzes."false"": {
-    "message": ""False"",
+  "quizzes.false": {
+    "message": "False",
     "description": ""
   },
   "quizzes.file_uploaded_or_removed.quizzes.file_successfully_uploaded": {
@@ -59151,7 +59151,7 @@
     "message": "此\"问题\"将不会评分，但在引入一组相关问题时非常有用。",
     "description": ""
   },
-  "quizzes.quizzes.form_question.explanations.true_"false"": {
+  "quizzes.quizzes.form_question.explanations.true_false": {
     "message": "输入您的问题文本，然后选择真或假作为正确答案。",
     "description": ""
   },
@@ -59299,7 +59299,7 @@
     "message": "文本（无问题）",
     "description": ""
   },
-  "quizzes.quizzes.form_question.question_type.true_"false"": {
+  "quizzes.quizzes.form_question.question_type.true_false": {
     "message": "对/错",
     "description": ""
   },
@@ -61459,7 +61459,7 @@
     "message": "检索过滤器失败",
     "description": ""
   },
-  "quizzes_public."false"": {
+  "quizzes_public.false": {
     "message": "错误",
     "description": ""
   },
@@ -64063,67 +64063,67 @@
     "message": "评分范围 %{upperBound}-%{lowerBound}",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.actions.assignment_is_muted": {
+  "screenreader_gradebook.assignment_information.actions.assignment_is_muted": {
     "message": "已静音？",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.actions.curve_grades": {
+  "screenreader_gradebook.assignment_information.actions.curve_grades": {
     "message": "曲线评分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.actions.message_students": {
+  "screenreader_gradebook.assignment_information.actions.message_students": {
     "message": "给相关学生发送信息...",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.actions.set_default_grade": {
+  "screenreader_gradebook.assignment_information.actions.set_default_grade": {
     "message": "设置默认评分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.avg_score": {
+  "screenreader_gradebook.assignment_information.details.avg_score": {
     "message": "平均分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.graded_sub_count": {
+  "screenreader_gradebook.assignment_information.details.graded_sub_count": {
     "message": "已评分的提交项：",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.high_score": {
+  "screenreader_gradebook.assignment_information.details.high_score": {
     "message": "高分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.low_score": {
+  "screenreader_gradebook.assignment_information.details.low_score": {
     "message": "低分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.no_points": {
+  "screenreader_gradebook.assignment_information.details.no_points": {
     "message": "无最高分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.points_possible": {
+  "screenreader_gradebook.assignment_information.details.points_possible": {
     "message": "最高分",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.details.submission_types": {
+  "screenreader_gradebook.assignment_information.details.submission_types": {
     "message": "提交类型：",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.index.assignment_in_speedgrader": {
+  "screenreader_gradebook.assignment_information.index.assignment_in_speedgrader": {
     "message": "在快速评分器中查看此作业",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.index.assignment_info": {
+  "screenreader_gradebook.assignment_information.index.assignment_info": {
     "message": "作业信息",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.index.empty_assignment_selection": {
+  "screenreader_gradebook.assignment_information.index.empty_assignment_selection": {
     "message": "选择一项作业在此处查看其他信息。",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.index.no_points_possible_warning": {
+  "screenreader_gradebook.assignment_information.index.no_points_possible_warning": {
     "message": "此小组中的作业没有最高分，无法包括在评分计算中。",
     "description": ""
   },
-  "screenreader_gradebook.assignment_indion.index.warning": {
+  "screenreader_gradebook.assignment_information.index.warning": {
     "message": "警告",
     "description": ""
   },
@@ -64235,27 +64235,27 @@
     "message": "学生信息",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.avg_score": {
+  "screenreader_gradebook.outcome_information.avg_score": {
     "message": "平均分",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.empty_outcome_selection": {
+  "screenreader_gradebook.outcome_information.empty_outcome_selection": {
     "message": "选择一个结果在此处查看其他信息。",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.high_score": {
+  "screenreader_gradebook.outcome_information.high_score": {
     "message": "高分",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.low_score": {
+  "screenreader_gradebook.outcome_information.low_score": {
     "message": "低分",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.outcome_info": {
+  "screenreader_gradebook.outcome_information.outcome_info": {
     "message": "结果信息",
     "description": ""
   },
-  "screenreader_gradebook.outcome_indion.result_sub_count": {
+  "screenreader_gradebook.outcome_information.result_sub_count": {
     "message": "结果总计：",
     "description": ""
   },
@@ -64327,59 +64327,59 @@
     "message": "排序作业",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_groups.ag_group_grade": {
+  "screenreader_gradebook.student_information.assignment_groups.ag_group_grade": {
     "message": "评分",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_groups.ag_group_name": {
+  "screenreader_gradebook.student_information.assignment_groups.ag_group_name": {
     "message": "作业小组",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_groups.ag_group_percent_grade": {
+  "screenreader_gradebook.student_information.assignment_groups.ag_group_percent_grade": {
     "message": "评分 %",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_groups.ag_letter_grade": {
+  "screenreader_gradebook.student_information.assignment_groups.ag_letter_grade": {
     "message": "书面评分",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_subtotals.ag_group_grade": {
+  "screenreader_gradebook.student_information.assignment_subtotals.ag_group_grade": {
     "message": "评分",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_subtotals.ag_group_percent_grade": {
+  "screenreader_gradebook.student_information.assignment_subtotals.ag_group_percent_grade": {
     "message": "评分 %",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.assignment_subtotals.ag_letter_grade": {
+  "screenreader_gradebook.student_information.assignment_subtotals.ag_letter_grade": {
     "message": "字母评分",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.details.hidden": {
+  "screenreader_gradebook.student_information.details.hidden": {
     "message": "已隐藏",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.details.secondary_id": {
+  "screenreader_gradebook.student_information.details.secondary_id": {
     "message": "第二 ID：",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.details.sections": {
+  "screenreader_gradebook.student_information.details.sections": {
     "message": "班级：",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.index.empty_student_selection": {
+  "screenreader_gradebook.student_information.index.empty_student_selection": {
     "message": "选择一个学生在此处查看其他信息。",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.index.grades": {
+  "screenreader_gradebook.student_information.index.grades": {
     "message": "评分",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.index.student_info": {
+  "screenreader_gradebook.student_information.index.student_info": {
     "message": "学生信息",
     "description": ""
   },
-  "screenreader_gradebook.student_indion.index.submissions_loading": {
+  "screenreader_gradebook.student_information.index.submissions_loading": {
     "message": "此学生的提交项仍在加载...",
     "description": ""
   },
@@ -65887,15 +65887,15 @@
     "message": "设置清单",
     "description": ""
   },
-  "share_important_indion_about_your_course_with_dceacbf9": {
+  "share_important_information_about_your_course_with_dceacbf9": {
     "message": "和所有用户共享有关您的课程的重要信息。\n      使用公告提醒学生重要日期和任务，\n      向学生指示内部和外部资源以帮助学生\n      获得优秀的课程成绩，祝贺学生获得的成绩，以及突出显示感兴趣的活动。\n      公告可以包括文本、多媒体和文件。",
     "description": ""
   },
-  "share_important_indion_with_all_users_in_your_bc49ee7f": {
+  "share_important_information_with_all_users_in_your_bc49ee7f": {
     "message": "与您的课程中的所有用户分享重要信息。\n选择以获取您自己在通知中的公告的副本。",
     "description": ""
   },
-  "share_important_indion_with_all_users_in_your_f58337e0": {
+  "share_important_information_with_all_users_in_your_f58337e0": {
     "message": "与您的课程中的所有用户分享重要信息。\n选择以获取您自己在通知中的公告的副本。",
     "description": ""
   },
@@ -68199,7 +68199,7 @@
     "message": "相似性检测平台",
     "description": ""
   },
-  "similarity_score_more_indion_b7010a87": {
+  "similarity_score_more_information_b7010a87": {
     "message": "相似性分数 – 更多信息",
     "description": ""
   },
@@ -73223,23 +73223,23 @@
     "message": "%{date} %{time}",
     "description": ""
   },
-  "time.ds.default": {
+  "time.formats.default": {
     "message": "%a, %d %b %Y %H:%M:%S %z",
     "description": ""
   },
-  "time.ds.long": {
+  "time.formats.long": {
     "message": "%B %d, %Y %H:%M",
     "description": ""
   },
-  "time.ds.short": {
+  "time.formats.short": {
     "message": "%d %b %H:%M",
     "description": ""
   },
-  "time.ds.tiny": {
+  "time.formats.tiny": {
     "message": "%H:%M",
     "description": ""
   },
-  "time.ds.tiny_on_the_hour": {
+  "time.formats.tiny_on_the_hour": {
     "message": "%k:%M",
     "description": ""
   },
@@ -74875,11 +74875,11 @@
     "message": "要查看课程中的成绩，还必须启用“评分 - 查看所有评分”。",
     "description": ""
   },
-  "to_view_last_activity_and_total_activity_indi_a06859f3": {
+  "to_view_last_activity_and_total_activity_informati_a06859f3": {
     "message": "要在“课程人员”页面上查看“上次活动”和“总活动”信息，还必须启用“用户 - 查看列表”。\n要访问“课程人员”页面，还必须启用“用户 - 查看列表”。",
     "description": ""
   },
-  "to_view_last_activity_and_total_activity_indi_b24e3864": {
+  "to_view_last_activity_and_total_activity_informati_b24e3864": {
     "message": "要在“课程人员”页面上查看“上次活动”和“总活动”信息，还必须启用“用户 - 查看列表”。要访问“课程人员”页面，还必须启用“用户 - 查看列表”。",
     "description": ""
   },
@@ -75551,7 +75551,7 @@
     "message": "马上、立即",
     "description": ""
   },
-  "turnitin_similarity_score_more_indion_e2571be8": {
+  "turnitin_similarity_score_more_information_e2571be8": {
     "message": "抄袭监测系统相似度分数 – 更多信息",
     "description": ""
   },
@@ -76811,7 +76811,7 @@
     "message": "用户 ID: %{user_id}",
     "description": ""
   },
-  "user_indion_6353d7e1": {
+  "user_information_6353d7e1": {
     "message": "用户信息",
     "description": ""
   },
@@ -78259,7 +78259,7 @@
     "message": "重新提交至VeriCite",
     "description": ""
   },
-  "vericite_similarity_score_more_indion_7df9ea5c": {
+  "vericite_similarity_score_more_information_7df9ea5c": {
     "message": "VeriCite 相似度评分 - 更多信息",
     "description": ""
   },
@@ -78723,7 +78723,7 @@
     "message": "小组网络会议",
     "description": ""
   },
-  "web_conference.settings.boolean."false"": {
+  "web_conference.settings.boolean.false": {
     "message": "关",
     "description": ""
   },
@@ -79815,7 +79815,7 @@
     "message": "您可以尝试*再次登录*。",
     "description": ""
   },
-  "you_can_update_some_of_this_user_s_indion_but_8e99a045": {
+  "you_can_update_some_of_this_user_s_information_but_8e99a045": {
     "message": "您可以更新该用户的一些信息，但如果他们选择，他们可以改回来。",
     "description": ""
   },
@@ -80575,59 +80575,59 @@
     "message": "12月",
     "description": ""
   },
-  "zh-Hans.date.ds.date_at_time": {
+  "zh-Hans.date.formats.date_at_time": {
     "message": "%b %-d 于 %H:%M",
     "description": ""
   },
-  "zh-Hans.date.ds.default": {
+  "zh-Hans.date.formats.default": {
     "message": "%Y-%m-%d",
     "description": ""
   },
-  "zh-Hans.date.ds.full": {
+  "zh-Hans.date.formats.full": {
     "message": "%Y年%b%-d日 %k:%M",
     "description": ""
   },
-  "zh-Hans.date.ds.full_with_weekday": {
+  "zh-Hans.date.formats.full_with_weekday": {
     "message": "%a %Y年%b%-d日 %k:%M",
     "description": ""
   },
-  "zh-Hans.date.ds.long": {
+  "zh-Hans.date.formats.long": {
     "message": "%Y %B %-d",
     "description": ""
   },
-  "zh-Hans.date.ds.long_with_weekday": {
+  "zh-Hans.date.formats.long_with_weekday": {
     "message": "%A, %B %-d",
     "description": ""
   },
-  "zh-Hans.date.ds.medium": {
+  "zh-Hans.date.formats.medium": {
     "message": "%Y年%b%-d日",
     "description": ""
   },
-  "zh-Hans.date.ds.medium_month": {
+  "zh-Hans.date.formats.medium_month": {
     "message": "%Y %b",
     "description": ""
   },
-  "zh-Hans.date.ds.medium_with_weekday": {
+  "zh-Hans.date.formats.medium_with_weekday": {
     "message": "%a %Y年%b%-d日",
     "description": ""
   },
-  "zh-Hans.date.ds.short": {
+  "zh-Hans.date.formats.short": {
     "message": "%b%-d日",
     "description": ""
   },
-  "zh-Hans.date.ds.short_month": {
+  "zh-Hans.date.formats.short_month": {
     "message": "%b",
     "description": ""
   },
-  "zh-Hans.date.ds.short_weekday": {
+  "zh-Hans.date.formats.short_weekday": {
     "message": "%a",
     "description": ""
   },
-  "zh-Hans.date.ds.short_with_weekday": {
+  "zh-Hans.date.formats.short_with_weekday": {
     "message": "%a, %b %-d",
     "description": ""
   },
-  "zh-Hans.date.ds.weekday": {
+  "zh-Hans.date.formats.weekday": {
     "message": "%A",
     "description": ""
   },
@@ -80651,11 +80651,11 @@
     "message": "%{date} %{time}",
     "description": ""
   },
-  "zh-Hans.time.ds.tiny": {
+  "zh-Hans.time.formats.tiny": {
     "message": "%k:%M",
     "description": ""
   },
-  "zh-Hans.time.ds.tiny_on_the_hour": {
+  "zh-Hans.time.formats.tiny_on_the_hour": {
     "message": "%k:%M",
     "description": ""
   }
