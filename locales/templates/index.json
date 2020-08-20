@@ -80555,10 +80555,6 @@
     "message": "%A",
     "description": ""
   },
-  "zh-Hans.dow_offset": {
-    "message": 1,
-    "description": ""
-  },
   "zh-Hans.fullcalendar_locale": {
     "message": "zh-cn",
     "description": ""
